@@ -130,7 +130,7 @@ Matrices  ```1500x1550 *1550x1506```       tiled Width   32
 
 ## Grafica de tiempos
 
-![alt tag](img1.JPG)
+![alt tag](img1.odg)
 
 
 ## Conclusiones
